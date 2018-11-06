@@ -1,4 +1,4 @@
-__author__ = 'airturk'
+__author__ = 'ali.irturk'
 
 from stack import Stack
 
