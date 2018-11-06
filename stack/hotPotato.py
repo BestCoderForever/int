@@ -1,3 +1,5 @@
+__author__ = "airturk"
+
 from queue_homemade import QueueNew
 
 # Names of the kids
