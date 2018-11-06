@@ -32,9 +32,9 @@ class Stack:
         return len(self.items)
 
 
-# s = Stack()
+s = Stack()
 #
-# print(s.isEmpty())
+print(s.isEmpty())
 # s.push(4)
 # s.push('dog')
 # print(s.peek())
