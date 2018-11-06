@@ -15,13 +15,13 @@ for n in range(len(input)):
     elif input[n] == ")":
         s.pop()
     else:
-        print "Something went wrong!"
+        print("Something went wrong!")
 
 # once complete check to see if empty. If yes, balanced. If not, not balanced.
 if s.isEmpty():
-    print "It is balanced!"
+    print("It is balanced!")
 else:
-    print "It is not balanced!"
+    print("It is not balanced!")
 
 
 
