@@ -20,13 +20,13 @@ class Deque:
         self.dq.append(item)
 
     def remove_front(self):
-        self.dq.pop()
+        return self.dq.pop()
 
     def add_back(self, item):
         self.dq.insert(0, item)
 
     def remove_back(self):
-        self.dq.pop(0)
+        return self.dq.pop(0)
 
     def isEmpty(self):
         print(self.dq == [])
