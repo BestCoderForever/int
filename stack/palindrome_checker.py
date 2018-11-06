@@ -1,3 +1,5 @@
+__author__ = 'airturk'
+
 from deque_homemade import Deque
 
 
