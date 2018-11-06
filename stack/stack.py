@@ -1,4 +1,4 @@
-__author__ = 'airturk'
+__author__ = 'ali.irturk'
 
 # step 1 is to define the abstract data type (ADT) for stack
 
