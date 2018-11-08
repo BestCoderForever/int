@@ -21,8 +21,8 @@ def dec2binFunc(quotient):
  return bin_string
 
 
-print dec2binFunc(14)
+print(dec2binFunc(14))
 
-print dec2binFunc(102)
+print(dec2binFunc(102))
 
-print dec2binFunc(56)
+print(dec2binFunc(56))
